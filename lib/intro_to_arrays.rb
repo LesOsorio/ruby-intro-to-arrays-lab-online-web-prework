@@ -7,7 +7,7 @@ def array_with_two_elements
 end
 
 def first_element(array)
-  array[1]
+  puts "Welcome to New York"
 end
 
 def third_element

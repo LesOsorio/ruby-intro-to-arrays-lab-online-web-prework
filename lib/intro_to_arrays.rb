@@ -6,8 +6,10 @@ def array_with_two_elements
   numbers = ["0","1"]
 end
 
-def first_element(numbers)
-  numbers[1]
+def first_element(array)
+  array = ["0","1","2","3"] do
+    array[1]
+  end
 end
 
 def third_element

@@ -3,7 +3,7 @@ def instantiate_new_array
 end
 
 def array_with_two_elements
-  numbers = ["-3", "-2", "-1", "0","1","2"]
+  numbers = ["1","2"]
 end
 
 def first_element

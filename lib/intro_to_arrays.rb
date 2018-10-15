@@ -3,7 +3,7 @@ def instantiate_new_array
 end
 
 def array_with_two_elements
-  good_green = ["bush","shrub"]
+  numbers = ["bush","shrub"]
 end
 
 def first_element

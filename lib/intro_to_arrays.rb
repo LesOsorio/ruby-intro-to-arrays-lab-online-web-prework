@@ -7,7 +7,7 @@ def array_with_two_elements
 end
 
 def first_element(array)
-  numbers[1]
+  array[1]
 end
 
 def third_element

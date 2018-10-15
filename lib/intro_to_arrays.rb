@@ -7,5 +7,5 @@ def array_with_two_elements
 end
 
 def first_element
-  good_green[1]
+  good_green[ 1 ]
 end

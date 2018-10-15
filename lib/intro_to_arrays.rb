@@ -7,8 +7,7 @@ def array_with_two_elements
 end
 
 def first_element(array)
-  array = ["0","1","2","3"] do
-    array[1]
+  array[1]
   end
 end
 

@@ -26,6 +26,6 @@ def last_element_with_array_methods
 
 end
 
-def lenght_of_array
+def length_of_array
   numbers.length
 end

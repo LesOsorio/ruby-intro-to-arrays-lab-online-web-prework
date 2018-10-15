@@ -11,6 +11,5 @@ def first_element(array)
 end
 
 def third_element(array)
-    numbers<<"2"
-    numbers[3]
+  
   end

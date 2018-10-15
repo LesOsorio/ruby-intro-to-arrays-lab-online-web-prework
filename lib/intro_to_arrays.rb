@@ -21,3 +21,10 @@ end
 def first_element_with_array_methods(array)
   array first_element
 end
+
+def last_element_with_array_methods
+
+end 
+
+def lenght_of_array(array)
+  array numbers.length

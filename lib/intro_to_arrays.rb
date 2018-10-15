@@ -3,7 +3,7 @@ def instantiate_new_array
 end
 
 def array_with_two_elements
-  numbers = ["0","1"]
+  numbers = ["0","1","2"]
 end
 
 def first_element(array)
@@ -11,5 +11,5 @@ def first_element(array)
 end
 
 def third_element(array)
-    numbers[2]
+    numbers[3]
   end

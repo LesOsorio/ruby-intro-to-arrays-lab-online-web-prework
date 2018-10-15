@@ -1,5 +1,5 @@
 def instantiate_new_array
-  good_green = []
+  numbers = []
 end
 
 def array_with_two_elements

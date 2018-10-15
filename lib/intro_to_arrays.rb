@@ -11,6 +11,5 @@ def first_element
 end
 
 def third_element
-  numbers<<"2" do
     numbers [3]
   end 
